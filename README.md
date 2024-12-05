@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruqayyat-Hassan
-- 👀 I’m interested in Healthcare Data Analysis and Data Science
+- 👀 I’m interested in Data Analysis and Data Science specifically in the field of healthcare
 - 🌱 I completed a course on Data Analysis and now my goal is to improve on what I have learnt so far by practicing my use of SQL, Excel, PowerBI software and also learning R and Python programming languages.
 - 💞️ I’m looking to collaborate on Data projects: Guided, Solo, Group or Hackathons
 - 📫 You can reach me on [Linkedln](https://www.linkedin.com/in/ruqayyat-hassan-182609303) or [X](https://x.com/mademoiselle_RH)
