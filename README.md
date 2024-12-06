@@ -6,7 +6,7 @@
 - ⚡ Fun fact: The things that I find challenging at first, eventually become my favourite things to indulge in and excel at.
 - Find some of My projects here 👇
 - Analysis on Student Mental Health: https://tinyurl.com/5fxray7w
-- Case Study on Airbnb Listings: https://tinyurl.com/CasestdyPrjt 
+- Case Study on Airbnb Listings: https://tinyurl.com/CasestdyPrjt
 
 <!---
 Ruqayyat-Hassan/Ruqayyat-Hassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
